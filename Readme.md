@@ -15,7 +15,9 @@ This repository contains implementations of various deep learning models for med
 3. **SelfMadeModel.ipynb**: Introduces a custom architecture proposed by the author, applied to the dataset.
 
 ---
-
+## Proposed Model
+![model](https://github.com/user-attachments/assets/ac85b110-26b8-4652-8ca0-b98869358301)
+---
 ## Repository Structure
 
 ├──codePackage
