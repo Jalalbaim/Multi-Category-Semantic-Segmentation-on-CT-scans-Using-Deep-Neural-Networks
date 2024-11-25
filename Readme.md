@@ -16,7 +16,7 @@ This repository contains implementations of various deep learning models for med
 
 ---
 ## Proposed Model
-![model](https://github.com/user-attachments/assets/ac85b110-26b8-4652-8ca0-b98869358301)
+![ModelSelfMade](https://github.com/user-attachments/assets/2af4212a-8cb9-4d0c-bd86-49f9e64780ed)
 ---
 ## Repository Structure
 
