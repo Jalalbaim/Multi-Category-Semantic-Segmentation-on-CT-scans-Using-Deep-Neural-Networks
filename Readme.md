@@ -1,4 +1,4 @@
-# Medical Image Processing Homework
+# Multi-Category-Semantic-Segmentation-on-CT-scans-Using-Deep-Neural-Networks
 
 **Author:** BAIM Mohamed Jalal  
 **Student ID:** 313551810  
